@@ -1,0 +1,226 @@
+{
+    "__collections__": {
+        "GameOne": {
+            "nation": {
+                "age": "20",
+                "name": "Johnny",
+                "__collections__": {
+                    "Thailand": {
+                        "bangkok": {
+                            "food": {
+                                "0": "Pad Thai",
+                                "1": "Hoy Tod"
+                            },
+                            "__collections__": {}
+                        },
+                        "samutprakran": {
+                            "food": {
+                                "0": "Som Tum",
+                                "1": "Kai Yang"
+                            },
+                            "__collections__": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Users": {
+            "6MXGwWl35drIV5NxD0ZM": {
+                "email": "ssss@g.com",
+                "name": "AAA",
+                "ttt": {
+                    "__datatype__": "timestamp",
+                    "value": "2018-06-20T17:00:00.000Z"
+                },
+                "__collections__": {
+                    "Singapore": {
+                        "01": {
+                            "chicken": "Chicken",
+                            "__collections__": {}
+                        }
+                    },
+                    "Thailand": {
+                        "01": {
+                            "mango": "Mango",
+                            "__collections__": {}
+                        }
+                    }
+                }
+            },
+            "8MpqGzWoyL5XGgAFgeBQ": {
+                "email": "a",
+                "name": "a",
+                "__collections__": {}
+            },
+            "GUYJFsSkSH1GCfthH2a5": {
+                "email": "zz@g.com",
+                "name": "zzzz",
+                "__collections__": {}
+            },
+            "four": {
+                "name": "Dum",
+                "food": "Egg",
+                "colour": "Pink",
+                "age": "20",
+                "__collections__": {}
+            },
+            "three": {
+                "colour": "Red",
+                "age": "10",
+                "name": "Dang",
+                "food": "Egg",
+                "__collections__": {}
+            },
+            "two": {
+                "email": "www@g.com",
+                "name": "www",
+                "demoData": {
+                    "arr_questions": [
+                        {
+                            "boo_first_on_page": true,
+                            "str_question_img": "image/question.png",
+                            "str_answer_type": "text",
+                            "str_question_txt": "What is your skin type?",
+                            "arr_answers": [
+                                {
+                                    "str_answer_txt": "Tan"
+                                },
+                                {
+                                    "str_answer_txt": "White"
+                                },
+                                {
+                                    "str_answer_txt": "Black"
+                                }
+                            ],
+                            "str_qa_ratio": "1vs1",
+                            "str_answer_align": "center",
+                            "str_question_align": "center",
+                            "str_ans_on_row": "all",
+                            "num_answer_limit": 1
+                        },
+                        {
+                            "arr_answers": [
+                                {
+                                    "str_answer_img": "image/black-eye.png",
+                                    "str_answer_txt": "Black"
+                                },
+                                {
+                                    "str_answer_img": "image/blue-eye.",
+                                    "str_answer_txt": "Blue"
+                                },
+                                {
+                                    "str_answer_img": "image/brown-eye.png",
+                                    "str_answer_txt": "Brown"
+                                },
+                                {
+                                    "str_answer_img": "image/green-eye.png",
+                                    "str_answer_txt": "Green"
+                                }
+                            ],
+                            "str_qa_ratio": "1vs1",
+                            "str_answer_align": "center",
+                            "str_question_align": "center",
+                            "str_ans_on_row": "2col",
+                            "num_answer_limit": 1,
+                            "boo_first_on_page": false,
+                            "str_question_img": "image/eye.png",
+                            "str_answer_type": "text",
+                            "str_question_txt": "What is your eye colour?"
+                        },
+                        {
+                            "boo_first_on_page": false,
+                            "str_question_img": "image/eye.png",
+                            "str_answer_type": "text",
+                            "str_question_txt": "What is your favourite part on your face? (select 3 choices)",
+                            "arr_answers": [
+                                {
+                                    "str_answer_txt": "Eye"
+                                },
+                                {
+                                    "str_answer_txt": "Nose"
+                                },
+                                {
+                                    "str_answer_txt": "Mouth"
+                                },
+                                {
+                                    "str_answer_txt": "Ear"
+                                },
+                                {
+                                    "str_answer_txt": "Elbow"
+                                },
+                                {
+                                    "str_answer_txt": "Chin"
+                                }
+                            ],
+                            "str_qa_ratio": "1vs0",
+                            "str_answer_align": "center",
+                            "str_question_align": "center",
+                            "str_ans_on_row": "all",
+                            "num_answer_limit": 3
+                        },
+                        {
+                            "str_answer_align": "center",
+                            "str_question_align": "center",
+                            "str_ans_on_row": "2col",
+                            "num_answer_limit": 2,
+                            "boo_first_on_page": true,
+                            "str_question_img": "image/something.png",
+                            "str_answer_type": "image",
+                            "str_question_txt": "Which image u like? (select 2 choices)",
+                            "arr_answers": [
+                                {
+                                    "str_answer_img": "https://firebasestorage.googleapis.com/v0/b/nyc-colour.appspot.com/o/nature_001.jpg?alt=media&token=f8f1dbb2-8a56-4469-83cd-1efddfadcb17",
+                                    "str_answer_txt": "Nature 001"
+                                },
+                                {
+                                    "str_answer_img": "https://firebasestorage.googleapis.com/v0/b/nyc-colour.appspot.com/o/nature_002.jpg?alt=media&token=7cb391e5-f2f0-4b94-b15f-7ae07d8a11fd",
+                                    "str_answer_txt": "Nature 002"
+                                },
+                                {
+                                    "str_answer_img": "https://firebasestorage.googleapis.com/v0/b/nyc-colour.appspot.com/o/nature_003.jpg?alt=media&token=372e1e5f-6257-42de-869c-09c99658c424",
+                                    "str_answer_txt": "Nature 003"
+                                },
+                                {
+                                    "str_answer_img": "https://firebasestorage.googleapis.com/v0/b/nyc-colour.appspot.com/o/nature_004.jpg?alt=media&token=dfe11589-7785-47cd-875e-b4e9eddc6201",
+                                    "str_answer_txt": "Nature 004"
+                                }
+                            ],
+                            "str_qa_ratio": "1vs0"
+                        },
+                        {
+                            "str_answer_align": "center",
+                            "str_question_align": "center",
+                            "str_ans_on_row": "4col",
+                            "num_answer_limit": 1,
+                            "boo_first_on_page": true,
+                            "str_question_img": "image/something.png",
+                            "str_answer_type": "textimage",
+                            "str_question_txt": "Which image u want again?",
+                            "arr_answers": [
+                                {
+                                    "str_answer_img": "https://firebasestorage.googleapis.com/v0/b/nyc-colour.appspot.com/o/nature_001.jpg?alt=media&token=f8f1dbb2-8a56-4469-83cd-1efddfadcb17",
+                                    "str_answer_txt": "Nature 001"
+                                },
+                                {
+                                    "str_answer_img": "https://firebasestorage.googleapis.com/v0/b/nyc-colour.appspot.com/o/nature_002.jpg?alt=media&token=7cb391e5-f2f0-4b94-b15f-7ae07d8a11fd",
+                                    "str_answer_txt": "Nature 002"
+                                },
+                                {
+                                    "str_answer_img": "https://firebasestorage.googleapis.com/v0/b/nyc-colour.appspot.com/o/nature_003.jpg?alt=media&token=372e1e5f-6257-42de-869c-09c99658c424",
+                                    "str_answer_txt": "Nature 003"
+                                },
+                                {
+                                    "str_answer_img": "https://firebasestorage.googleapis.com/v0/b/nyc-colour.appspot.com/o/nature_004.jpg?alt=media&token=dfe11589-7785-47cd-875e-b4e9eddc6201",
+                                    "str_answer_txt": "Nature 004"
+                                }
+                            ],
+                            "str_qa_ratio": "1vs0"
+                        }
+                    ],
+                    "str_questionnaire_txt": "Something about your skin"
+                },
+                "__collections__": {}
+            }
+        }
+    }
+}
